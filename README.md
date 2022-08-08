@@ -1,4 +1,4 @@
-# ue3.0+element-plus实现国际化语言，动态路由菜单demo
+# vue3.0+element-plus实现国际化语言，动态路由菜单demo
 
 ## Project setup
 ```
